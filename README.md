@@ -40,7 +40,7 @@
 <br>
 <div style="display: flex; align-items: flex-end; justify-content: center;">
   <img align="left" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=mohitxroxx&&show_icons=true&theme=midnight-purple" alt="RoxX's Github Stats" />
-  <img margin-left="4cm" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohitxroxx&theme=react&hide_border=false&include_all_commits=false&count_private=false&layout=compact"/>
+  <img margin-left="40 cm" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohitxroxx&theme=react&hide_border=false&include_all_commits=false&count_private=false&layout=compact"/>
 </div>
 
 <br>
