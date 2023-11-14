@@ -42,20 +42,12 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohitxroxx&theme=react&hide_border=false&include_all_commits=false&count_private=false&layout=compact"/>
 </div>
 <br>
+<!-- ⭐May the Force be with you⭐ -->
 <div align="center">
-  <pre>
-      -⭐May the force be with you⭐
-  ─────────────────▒▒
-  ────────▒▒──────▒▒
-  ──────▒▒────────▒▒
-  ────▒▒──────────▒▒
-  ──▒▒──▒▒────────▒▒
-  ─▒▒────▒▒──────▒▒
-  ▒▒──────▒▒────▒▒
-  ▒▒────────▒▒──▒▒
-  ▒▒──────────▒▒▒▒
-  </pre>
+  <img src="https://icons8.com/icon/39422/lightsaber" alt="Lightsaber Icon" width="50px">
+  <p>-⭐ May the force be with you ⭐-</p>
 </div>
+
 
 
 <div>
