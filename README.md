@@ -47,9 +47,11 @@
 
 <br>
 <br>
-⭐️ From  [Let's get in touch!][linkedin]
+[![Readme Quotes]https://quotes-github-readme.vercel.app/api?quote=Even%20if%20you%27re%20not%20ready%20for%20the%20day,%20it%20cannot%20always%20be%20night!%20&type=horizontal&?theme=catppuccin_mocha
 <br>
 <br>
+
+-⭐MOHIT⭐
 <div>
     <img src="https://cultofthepartyparrot.com/parrots/hd/githubparrot.gif" width="30" height="30"/>
     <img src="https://cultofthepartyparrot.com/flags/hd/indiaparrot.gif" width="30" height="30"/>
