@@ -37,6 +37,7 @@
 
 ### Github Stats :zap:
 <br>
+<br>
 <div style="display: flex; align-items: flex-end; justify-content: center;">
   <img align="left" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=mohitxroxx&&show_icons=true&theme=midnight-purple" alt="RoxX's Github Stats" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohitxroxx&theme=react&hide_border=false&include_all_commits=false&count_private=false&layout=compact"/>
@@ -44,7 +45,7 @@
 <br>
 <!-- ⭐May the Force be with you⭐ -->
 <div align="center">
-  <img src="https://icons8.com/icon/39422/lightsaber" alt="Lightsaber Icon" width="50px">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/1/14/Lightsaber%2C_silver_hilt%2C_blue_blade.png" alt="Lightsaber Icon" width="50px">
   <p>-⭐ May the force be with you ⭐-</p>
 </div>
 
