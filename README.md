@@ -47,7 +47,7 @@
 
 <br>
 <br>
-⭐️ From [MoHiT](https://github.com/mohitxroxx)
+⭐️ From [MoHiT][https://github.com/mohitxroxx]
 <br>
 <br>
 <div>
