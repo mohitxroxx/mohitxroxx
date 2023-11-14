@@ -22,14 +22,13 @@
 - 🔭 I’m a competitive coder/problem solver:
 - 🌱 I’m currently learning Backend Development.
 - 📬 How to reach me: [Let's get in touch!][linkedin]
-- 🧗 I try to push myself as much as possible.
 
 <br>
 
 ### Languages and Tools: 
 
-<img align="left" alt="Visual Studio Code" width="35px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/1200px-Visual_Studio_Code_1.35_icon.svg.png" />
-<img align="left" alt="JavaScript" width="35px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/JavaScript-logo.png/768px-JavaScript-logo.png" />
+<img align="left" alt="Visual Studio Code" width="35px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
+<img align="left" alt="JavaScript" width="35px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
 <img align="left" alt="NodeJS" width="35px" src="https://miro.medium.com/v2/resize:fit:800/1*bc9pmTiyKR0WNPka2w3e0Q.png" />
 <img align="left" alt="MongoDB" width="35px" src="https://miro.medium.com/v2/resize:fit:512/1*doAg1_fMQKWFoub-6gwUiQ.png" />
 <img align="left" alt="C++" width="35px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/1822px-ISO_C%2B%2B_Logo.svg.png" />
@@ -40,8 +39,8 @@
 
 ### Github Stats :zap:
 <br>
-  <img align="left" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=mohitxroxx&&show_icons=true&theme=dark" alt="RoxX's Github Stats" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohitxroxx&show_icons=true&hide_border=true&theme=radical" width="37%" alt="RoxX's Top Languages"/>
+  <img align="left" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=mohitxroxx&&show_icons=true&theme=midnight-purple" alt="RoxX's Github Stats" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohitxroxx&show_icons=true&hide_border=true&theme=ambient_gradient" width="37%" alt="RoxX's Top Languages"/>
 
 <img src="https://github.com/sisodiya2421/sisodiya2421/blob/master/images/bottom.svg" />
 
