@@ -11,8 +11,6 @@
 <br>
 <a href="https://www.linkedin.com/in/mohitxroxx/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>&nbsp;
 <a href="mailto:mohitbiz@outlook.com?subject=Hi%20Mohit"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/></a>&nbsp;
-<!--<a href="https://kkvanonymous.github.io/"><img alt="Website" src="https://img.shields.io/website?style=for-the-badge&up_message=portfolio&url=https%3A%2F%2Fkkvanonymous.github.io%2F"></a>-->
-</p>
 
 <br>
 
@@ -20,7 +18,7 @@
 
 ### I am a Sophomore pursuing Computer Science Engineering
 - 🔭 I’m a competitive coder/problem solver:
-- 🌱 I’m currently learning Backend Development.
+- 🌱 Currently learning Backend Development.
 - 📬 How to reach me: [Let's get in touch!][linkedin]
 
 <br>
@@ -41,7 +39,7 @@
 <br>
 <div style="display: flex; align-items: flex-end; justify-content: center;">
   <img align="left" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=mohitxroxx&&show_icons=true&theme=midnight-purple" alt="RoxX's Github Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohitxroxx&show_icons=true&hide_border=true&theme=dark" width="37%" margin-botton="1cm" alt="RoxX's Top Languages"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohitxroxx&theme=react&hide_border=false&include_all_commits=false&count_private=false&layout=compact"/>
 </div>
 
 
@@ -49,7 +47,15 @@
 
 
 ⭐️ From [MoHiT](https://github.com/mohitxroxx)
-
+<br>
+<div>
+    <img src="https://cultofthepartyparrot.com/parrots/hd/githubparrot.gif" width="30" height="30"/>
+    <img src="https://cultofthepartyparrot.com/flags/hd/indiaparrot.gif" width="30" height="30"/>
+    <img src="https://cultofthepartyparrot.com/parrots/hd/dealwithitnowparrot.gif" width="30" height="30"/>
+    <img src="https://cultofthepartyparrot.com/parrots/hd/hypnoparrotlight.gif" width="30" height="30"
+    <img src="https://cultofthepartyparrot.com/parrots/hd/illuminatiparrot.gif" width="30" height="30"/>
+    <img src="https://cultofthepartyparrot.com/parrots/hd/hypnoparrotdark.gif" width="30" height="30"/>
+</div>
 
 
 
