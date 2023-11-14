@@ -47,7 +47,7 @@
 
 <br>
 <br>
-[![Readme Quotes]https://quotes-github-readme.vercel.app/api?quote=Even%20if%20you%27re%20not%20ready%20for%20the%20day,%20it%20cannot%20always%20be%20night!%20&type=horizontal&?theme=catppuccin_mocha
+[![Readme Quotes]https://quotes-github-readme.vercel.app/api?quote=Even%20if%20you%27re%20not%20ready%20for%20the%20day,%20it%20cannot%20always%20be%20night!%20&type=horizontal&?theme=nord]
 <br>
 <br>
 
