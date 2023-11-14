@@ -47,7 +47,7 @@
 
 <br>
 <br>
-⭐️ From [MoHiT][github]
+⭐️ From  [Let's get in touch!][linkedin]
 <br>
 <br>
 <div>
