@@ -49,7 +49,7 @@
 <!-- ⭐May the Force be with you⭐ -->
 <div align="center">
 <!--   <img src="https://upload.wikimedia.org/wikipedia/commons/1/14/Lightsaber%2C_silver_hilt%2C_blue_blade.png" alt="Lightsaber Icon" width="50px"> -->
-  <p>-⭐ May the force be with you ⭐-</p>
+  <p>-⭐ May the Force be with you ⭐-</p>
 </div>
 
 
