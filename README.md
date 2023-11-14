@@ -39,8 +39,8 @@
 
 ### Github Stats :zap:
 <br>
-<div style="display: flex; flex-direction: column; align="center"; justify-content: center; height: 400px; padding: 20px; text-align: center;">
-  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=mohitxroxx&&show_icons=true&theme=midnight-purple" alt="RoxX's Github Stats" width="50%" style="margin-bottom: 20px;" />
+<div style="display: flex; flex-direction: column; align-items="center"; justify-content: "center"; height: "400px"; padding: "20px"; text-align: "center";">
+  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=mohitxroxx&&show_icons=true&theme=midnight-purple" alt="RoxX's Github Stats" width="50%" style="margin-bottom: "20px";" />
   <br>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohitxroxx&show_icons=true&hide_border=true&theme=dark" width="50%" alt="RoxX's Top Languages"/>
 </div>
