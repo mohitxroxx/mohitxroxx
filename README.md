@@ -18,7 +18,7 @@
 
 ### A Sophomore pursuing B. Tech. in Computer Science Engineering.
 - 🔭 I’m a competitive coder/problem solver:
-- 🌱 Currently learning Backend Development.
+- 🌱 Currently learning backend development.
 - 📬 How to reach me: [Let's get in touch!][linkedin]
 
 <br>
