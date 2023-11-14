@@ -45,9 +45,9 @@
 
 
 
-<br>
-<br>
 [![Readme Quotes](https://dev-humor.vercel.app/api?type=horizontal&theme=tokyonight)](https://github.com/piyushsuthar/github-readme-quotes)
+<br>
+<br>
 <br>
 <br>
 
