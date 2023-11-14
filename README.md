@@ -39,8 +39,11 @@
 
 ### Github Stats :zap:
 <br>
+<div style="display: flex; align-items: flex-end; justify-content: center;">
   <img align="left" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=mohitxroxx&&show_icons=true&theme=midnight-purple" alt="RoxX's Github Stats" />
-<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohitxroxx&show_icons=true&hide_border=true&theme=dark" width="37%" margin-botton="1cm" alt="RoxX's Top Languages"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohitxroxx&show_icons=true&hide_border=true&theme=dark" width="37%" margin-botton="1cm" alt="RoxX's Top Languages"/>
+</div>
+
 
 ⭐️ From [MoHiT](https://github.com/mohitxroxx)
 
