@@ -16,7 +16,7 @@
 
 <img align="right" height="270px" alt="GIF" src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" />
 
-### A Sophomore pursuing Computer Science Engineering.
+### A Sophomore pursuing B. Tech. in Computer Science Engineering.
 - 🔭 I’m a competitive coder/problem solver:
 - 🌱 Currently learning Backend Development.
 - 📬 How to reach me: [Let's get in touch!][linkedin]
