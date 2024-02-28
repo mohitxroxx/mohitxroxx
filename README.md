@@ -14,7 +14,7 @@
 <p align="center">
 <br>
 <a href="https://www.linkedin.com/in/mohitxroxx/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>&nbsp;
-<a href="mailto:mohitbiz@outlook.com?subject=Hi%20Mohit"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/></a>&nbsp;
+<a href="mailto:mohitxroxx@gmail.com?subject=Hi%20Mohit"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/></a>&nbsp;
 <br>
 <br>
 <br>
