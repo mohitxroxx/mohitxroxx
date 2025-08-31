@@ -35,7 +35,9 @@
 <img align="left" alt="NodeJS" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" />
 <img align="left" alt="NodeJS" width="35px" src="https://skillicons.dev/icons?i=express" />
 <img align="left" alt="MongoDB" width="35px" src="https://miro.medium.com/v2/resize:fit:512/1*doAg1_fMQKWFoub-6gwUiQ.png" />
-<img align="left" alt="Golang" width="35px" src="https://go.dev/blog/go-brand/Go-Logo/PNG/Go-Logo_Blue.png" /> 
+<br>
+<br>
+<img align="left" alt="Golang" width="65px" src="https://go.dev/blog/go-brand/Go-Logo/PNG/Go-Logo_Blue.png" /> 
 <img align="left" alt="AWS" width="35px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/Amazon_Web_Services_Logo.svg/1200px-Amazon_Web_Services_Logo.svg.png" /> 
 <img align="left" alt="Python" width="35px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/1200px-Python-logo-notext.svg.png" />  
 <img align="left" alt="Huggingface" width="35px" src="https://yt3.googleusercontent.com/ytc/AIdro_mNrquVCKsXMFEQe0YqYV7cTkQ6TsEIVq-kWruQJoOH7g=s900-c-k-c0x00ffffff-no-rj" />  
